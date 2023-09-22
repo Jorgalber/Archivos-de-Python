@@ -1,5 +1,4 @@
-#Jorge alberto Laureano
-
+#Jorge Alberto Laureano Maldonado 
 from PIL import Image
 import os
 
