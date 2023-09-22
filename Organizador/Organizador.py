@@ -1,4 +1,4 @@
-#Jorge alberto
+#Jorge alberto Laureano
 
 from PIL import Image
 import os
